@@ -1,0 +1,25 @@
+{
+  "name": "joy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "tsc --incremental -p tests/tsconfig.json",
+    "test": "playwright test -c tests-out"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0-alpha-sep-13-2023",
+    "@types/node": "^20.8.3",
+    "@types/uuid": "^9.0.8",
+    "dotenv": "^16.3.1",
+    "prettier": "3.0.3"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.1"
+  }
+}

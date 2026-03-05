@@ -1,0 +1,829 @@
+<testsuites id="" name="" tests="20" failures="13" skipped="6" errors="0" time="5.961277">
+<testsuite name="test.teardown.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="teardown" tests="1" failures="1" skipped="0" time="0.049" errors="0">
+<testcase name="End rest lives" classname="test.teardown.ts" time="0.049">
+<failure message="test.teardown.ts:8:9 End rest lives" type="FAILURE">
+<![CDATA[  [teardown] › test.teardown.ts:8:9 › End rest lives ───────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/test.teardown.ts-End-rest-lives-teardown/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/test.teardown.ts-End-rest-lives-teardown/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/test.teardown.ts-End-rest-lives-teardown-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/test.teardown.ts-End-rest-lives-teardown-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/test.teardown.ts-End-rest-lives-teardown/trace.zip]]
+
+[[ATTACHMENT|test-results/test.teardown.ts-End-rest-lives-teardown-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="client.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Authenticate › live authenticate" classname="client.spec.ts" time="0">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="creatingBreaks.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.069" errors="0">
+<testcase name="Creating Breaks › Add few products / Delete products from your listing" classname="creatingBreaks.spec.ts" time="0.069">
+<failure message="creatingBreaks.spec.ts:7:7 Add few products / Delete products from your listing" type="FAILURE">
+<![CDATA[  [chromium] › creatingBreaks.spec.ts:7:7 › Creating Breaks › Add few products / Delete products from your listing 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/creatingBreaks-Creating-Breaks-Add-few-products-Delete-products-from-your-listing-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/creatingBreaks-Creating-Breaks-Add-few-products-Delete-products-from-your-listing-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/creatingBreaks-Creating-Breaks-Add-few-products-Delete-products-from-your-listing-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/creatingBreaks-Creating-Breaks-Add-few-products-Delete-products-from-your-listing-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/creatingBreaks-Creating-Breaks-Add-few-products-Delete-products-from-your-listing-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/creatingBreaks-Creating-Breaks-Add-few-products-Delete-products-from-your-listing-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="creatingLiveStream.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="2" failures="2" skipped="0" time="0.156" errors="0">
+<testcase name="Schedule shows › Schedule unpublished show" classname="creatingLiveStream.spec.ts" time="0.079">
+<failure message="creatingLiveStream.spec.ts:9:7 Schedule unpublished show" type="FAILURE">
+<![CDATA[  [chromium] › creatingLiveStream.spec.ts:9:7 › Schedule shows › Schedule unpublished show ─────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/creatingLiveStream-Schedule-shows-Schedule-unpublished-show-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/creatingLiveStream-Schedule-shows-Schedule-unpublished-show-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/creatingLiveStream-Schedule-shows-Schedule-unpublished-show-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/creatingLiveStream-Schedule-shows-Schedule-unpublished-show-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/creatingLiveStream-Schedule-shows-Schedule-unpublished-show-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/creatingLiveStream-Schedule-shows-Schedule-unpublished-show-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Schedule shows › Schedule upcoming show" classname="creatingLiveStream.spec.ts" time="0.077">
+<failure message="creatingLiveStream.spec.ts:25:7 Schedule upcoming show" type="FAILURE">
+<![CDATA[  [chromium] › creatingLiveStream.spec.ts:25:7 › Schedule shows › Schedule upcoming show ───────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/creatingLiveStream-Schedule-shows-Schedule-upcoming-show-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/creatingLiveStream-Schedule-shows-Schedule-upcoming-show-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/creatingLiveStream-Schedule-shows-Schedule-upcoming-show-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/creatingLiveStream-Schedule-shows-Schedule-upcoming-show-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/creatingLiveStream-Schedule-shows-Schedule-upcoming-show-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/creatingLiveStream-Schedule-shows-Schedule-upcoming-show-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="game.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.079" errors="0">
+<testcase name="Listings test › test game" classname="game.spec.ts" time="0.079">
+<failure message="game.spec.ts:12:7 test game" type="FAILURE">
+<![CDATA[  [chromium] › game.spec.ts:12:7 › Listings test › test game ───────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/game-Listings-test-test-game-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/game-Listings-test-test-game-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/game-Listings-test-test-game-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/game-Listings-test-test-game-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/game-Listings-test-test-game-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/game-Listings-test-test-game-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="giveawayAndChat.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.069" errors="0">
+<testcase name="take over a livestream › giveawayForAllUsers test,combine test live chat test)" classname="giveawayAndChat.spec.ts" time="0.069">
+<failure message="giveawayAndChat.spec.ts:10:7 giveawayForAllUsers test,combine test live chat test)" type="FAILURE">
+<![CDATA[  [chromium] › giveawayAndChat.spec.ts:10:7 › take over a livestream › giveawayForAllUsers test,combine test live chat test) 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/giveawayAndChat-take-over-a-livestream-giveawayForAllUsers-test-combine-test-live-chat-test--chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/giveawayAndChat-take-over-a-livestream-giveawayForAllUsers-test-combine-test-live-chat-test--chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/giveawayAndChat-take-over-a-livestream-giveawayForAllUsers-test-combine-test-live-chat-test--chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/giveawayAndChat-take-over-a-livestream-giveawayForAllUsers-test-combine-test-live-chat-test--chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/giveawayAndChat-take-over-a-livestream-giveawayForAllUsers-test-combine-test-live-chat-test--chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/giveawayAndChat-take-over-a-livestream-giveawayForAllUsers-test-combine-test-live-chat-test--chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="listingActions.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Listings test › Seller can Copy break/Edit listing/move listing to another stream in Listings in LiveOS studio (combine giveawayForFollowersOnly test)" classname="listingActions.spec.ts" time="0">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="orders.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.939" errors="0">
+<testcase name="Orders › Check orders info with account deleted shippingaddress and card" classname="orders.spec.ts" time="4.939">
+</testcase>
+</testsuite>
+<testsuite name="polls.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.067" errors="0">
+<testcase name="Polls test › polls tests" classname="polls.spec.ts" time="0.067">
+<failure message="polls.spec.ts:13:7 polls tests" type="FAILURE">
+<![CDATA[  [chromium] › polls.spec.ts:13:7 › Polls test › polls tests ───────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/polls-Polls-test-polls-tests-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/polls-Polls-test-polls-tests-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/polls-Polls-test-polls-tests-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/polls-Polls-test-polls-tests-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/polls-Polls-test-polls-tests-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/polls-Polls-test-polls-tests-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="purchase1UpAuction.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.063" errors="0">
+<testcase name="Purchase 1 Up Auction test › Purchase 1 Up Auction tests" classname="purchase1UpAuction.spec.ts" time="0.063">
+<failure message="purchase1UpAuction.spec.ts:14:7 Purchase 1 Up Auction tests" type="FAILURE">
+<![CDATA[  [chromium] › purchase1UpAuction.spec.ts:14:7 › Purchase 1 Up Auction test › Purchase 1 Up Auction tests 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchase1UpAuction-Purchase-1-Up-Auction-test-Purchase-1-Up-Auction-tests-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchase1UpAuction-Purchase-1-Up-Auction-test-Purchase-1-Up-Auction-tests-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchase1UpAuction-Purchase-1-Up-Auction-test-Purchase-1-Up-Auction-tests-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchase1UpAuction-Purchase-1-Up-Auction-test-Purchase-1-Up-Auction-tests-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/purchase1UpAuction-Purchase-1-Up-Auction-test-Purchase-1-Up-Auction-tests-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/purchase1UpAuction-Purchase-1-Up-Auction-test-Purchase-1-Up-Auction-tests-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="purchasePickYourSpotAuction.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.069" errors="0">
+<testcase name="Pick your spot Auction test › Pick your spot Auction test" classname="purchasePickYourSpotAuction.spec.ts" time="0.069">
+<failure message="purchasePickYourSpotAuction.spec.ts:12:7 Pick your spot Auction test" type="FAILURE">
+<![CDATA[  [chromium] › purchasePickYourSpotAuction.spec.ts:12:7 › Pick your spot Auction test › Pick your spot Auction test 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchasePickYourSpotAuction-Pick-your-spot-Auction-test-Pick-your-spot-Auction-test-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchasePickYourSpotAuction-Pick-your-spot-Auction-test-Pick-your-spot-Auction-test-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchasePickYourSpotAuction-Pick-your-spot-Auction-test-Pick-your-spot-Auction-test-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchasePickYourSpotAuction-Pick-your-spot-Auction-test-Pick-your-spot-Auction-test-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/purchasePickYourSpotAuction-Pick-your-spot-Auction-test-Pick-your-spot-Auction-test-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/purchasePickYourSpotAuction-Pick-your-spot-Auction-test-Pick-your-spot-Auction-test-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="purchasePickYourSpotSetPrice.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.068" errors="0">
+<testcase name="Pick your spot + Set price test › Pick your spot + Set price test" classname="purchasePickYourSpotSetPrice.spec.ts" time="0.068">
+<failure message="purchasePickYourSpotSetPrice.spec.ts:12:7 Pick your spot + Set price test" type="FAILURE">
+<![CDATA[  [chromium] › purchasePickYourSpotSetPrice.spec.ts:12:7 › Pick your spot + Set price test › Pick your spot + Set price test 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchasePickYourSpotSetPrice-Pick-your-spot-Set-price-test-Pick-your-spot-Set-price-test-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchasePickYourSpotSetPrice-Pick-your-spot-Set-price-test-Pick-your-spot-Set-price-test-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchasePickYourSpotSetPrice-Pick-your-spot-Set-price-test-Pick-your-spot-Set-price-test-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchasePickYourSpotSetPrice-Pick-your-spot-Set-price-test-Pick-your-spot-Set-price-test-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/purchasePickYourSpotSetPrice-Pick-your-spot-Set-price-test-Pick-your-spot-Set-price-test-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/purchasePickYourSpotSetPrice-Pick-your-spot-Set-price-test-Pick-your-spot-Set-price-test-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="purchaseRandomAuctionP2C1.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Random Auction P2C1 › Random Auction P2C1" classname="purchaseRandomAuctionP2C1.spec.ts" time="0">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="purchaseRandomAuctionStashPass.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Random Auction Stash/Pass test › Random Auction Stash/Pass test" classname="purchaseRandomAuctionStashPass.spec.ts" time="0">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="purchaseRandomSetPrice.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="2" failures="2" skipped="0" time="0.128" errors="0">
+<testcase name="Random + Set price › Random + Set price" classname="purchaseRandomSetPrice.spec.ts" time="0.068">
+<failure message="purchaseRandomSetPrice.spec.ts:20:7 Random + Set price" type="FAILURE">
+<![CDATA[  [chromium] › purchaseRandomSetPrice.spec.ts:20:7 › Random + Set price › Random + Set price ───────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchaseRandomSetPrice-Random-Set-price-Random-Set-price-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchaseRandomSetPrice-Random-Set-price-Random-Set-price-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchaseRandomSetPrice-Random-Set-price-Random-Set-price-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchaseRandomSetPrice-Random-Set-price-Random-Set-price-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/purchaseRandomSetPrice-Random-Set-price-Random-Set-price-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/purchaseRandomSetPrice-Random-Set-price-Random-Set-price-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Random + Set price › Seller randomly assigns spots after all spots have been sold using the &apos;Randomize spots&apos; button On the LiveOS: check that all spots are assigned to users" classname="purchaseRandomSetPrice.spec.ts" time="0.06">
+<failure message="purchaseRandomSetPrice.spec.ts:33:7 Seller randomly assigns spots after all spots have been sold using the &apos;Randomize spots&apos; button On the LiveOS: check that all spots are assigned to users" type="FAILURE">
+<![CDATA[  [chromium] › purchaseRandomSetPrice.spec.ts:33:7 › Random + Set price › Seller randomly assigns spots after all spots have been sold using the 'Randomize spots' button On the LiveOS: check that all spots are assigned to users 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchaseRandomSetPrice-Random-Set-price-Seller-c53d1-veOS-check-that-all-spots-are-assigned-to-users-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchaseRandomSetPrice-Random-Set-price-Seller-c53d1-veOS-check-that-all-spots-are-assigned-to-users-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/purchaseRandomSetPrice-Random-Set-price-Seller-c53d1-veOS-check-that-all-spots-are-assigned-to-users-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/purchaseRandomSetPrice-Random-Set-price-Seller-c53d1-veOS-check-that-all-spots-are-assigned-to-users-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/purchaseRandomSetPrice-Random-Set-price-Seller-c53d1-veOS-check-that-all-spots-are-assigned-to-users-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/purchaseRandomSetPrice-Random-Set-price-Seller-c53d1-veOS-check-that-all-spots-are-assigned-to-users-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="randomize.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="1" skipped="0" time="0.057" errors="0">
+<testcase name="Randomize › Choose spots to randomize and run" classname="randomize.spec.ts" time="0.057">
+<failure message="randomize.spec.ts:11:7 Choose spots to randomize and run" type="FAILURE">
+<![CDATA[  [chromium] › randomize.spec.ts:11:7 › Randomize › Choose spots to randomize and run ──────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/randomize-Randomize-Choose-spots-to-randomize-and-run-chromium/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/randomize-Randomize-Choose-spots-to-randomize-and-run-chromium/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Retry #1 ───────────────────────────────────────────────────────────────────────────────────────
+
+    Error: browserType.launch: Executable doesn't exist at /Users/57block/Library/Caches/ms-playwright/chromium-1081/chrome-mac/Chromium.app/Contents/MacOS/Chromium
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+    attachment #1: trace (application/zip) ─────────────────────────────────────────────────────────
+    test-results/randomize-Randomize-Choose-spots-to-randomize-and-run-chromium-retry1/trace.zip
+    Usage:
+
+        npx playwright show-trace test-results/randomize-Randomize-Choose-spots-to-randomize-and-run-chromium-retry1/trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results/randomize-Randomize-Choose-spots-to-randomize-and-run-chromium/trace.zip]]
+
+[[ATTACHMENT|test-results/randomize-Randomize-Choose-spots-to-randomize-and-run-chromium-retry1/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="singles.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Singles listing test › Singles listing test" classname="singles.spec.ts" time="0">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="templates.spec.ts" timestamp="2025-03-10T06:17:31.788Z" hostname="chromium" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Templates test › add templates" classname="templates.spec.ts" time="0">
+<properties>
+<property name="skip" value="">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>

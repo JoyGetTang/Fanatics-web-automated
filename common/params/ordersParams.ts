@@ -1,0 +1,310 @@
+export const ordersRes = [
+  {
+    currentUser: {
+      __typename: "CurrentUser",
+      orders: {
+        __typename: "BreakOrderConnection",
+        edges: [
+          {
+            __typename: "BreakOrderEdge",
+            node: {
+              __typename: "BreakOrder",
+              amountInCents: 11445,
+              break: {
+                __typename: "Break",
+                breakSlotsCounts: {
+                  __typename: "BreakSlotsCounts",
+                  total: 30,
+                },
+                id: "9c02dc02-412f-4b59-8902-aad7d58693ea",
+                liveStream: {
+                  __typename: "LiveStream",
+                  channel: {
+                    __typename: "Channel",
+                    shop: {
+                      __typename: "Shop",
+                      id: "bfafd1c2-a3e8-431b-8710-86b72c27cd46",
+                      name: "test-shop",
+                    },
+                  },
+                  id: "0409b22c-7be3-4120-ba54-de77fe3dffad",
+                  name: "joy 31",
+                },
+                pricingType: "AUCTION",
+                selectionType: "PICK_YOUR_SLOT",
+                title: "pick auction",
+              },
+              breakSpots: [
+                {
+                  __typename: "BreakSlot",
+                  id: "9b3084cc-1660-4086-a2d3-d55c71ced6bb",
+                  label: "Atlanta Hawks",
+                  logoUrl:
+                    "https://d93k0djcwy21h.cloudfront.net/breaking/spot/templates/NBA/Atlanta_Hawks.png?auto=compress&s=7fbff7b9207e48f90f0b590d3774bf9f",
+                  priceDisplay: null,
+                  priceInCents: null,
+                },
+              ],
+              carrierProvider: null,
+              discountValueDisplay: "$0.00",
+              discountValueInCents: 0,
+              id: "29720c61-2cce-4e20-bac1-df8f0d6fd4f4",
+              insertedAt: "2024-01-31T02:26:45.620371Z",
+              orderCode: "FNT_pick auction_20240131022645618539",
+              paymentMethod: {
+                __typename: "PaymentMethod",
+                brand: "mastercard",
+                id: "910f005b-46d4-4c83-8ef4-1384ae7b20d2",
+                last4: "4444",
+              },
+              productValueDisplay: "$100.00",
+              promoCode: null,
+              shippingAddress: {
+                __typename: "Address",
+                city: "Los Angeles",
+                line1: "12727 Mitchell Ave",
+                line2: null,
+                name: "addr2 addr",
+                postalCode: "90066-4758",
+                state: "CA",
+              },
+              shippingValueDisplay: "$4.95",
+              shippingValueInCents: 495,
+              status: "Preparing for shipment",
+              subTotalValueDisplay: "$100.00",
+              totalChargeValueDisplay: "$114.45",
+              totalSalesTaxDisplay: "$9.50",
+              totalSalesTaxInCents: 950,
+              trackingNumber: null,
+              trackingStatus: null,
+              trackingUrlProvider: null,
+            },
+          },
+        ],
+      },
+    },
+  },
+  {
+    currentUser: {
+      __typename: "CurrentUser",
+      orders: {
+        __typename: "BreakOrderConnection",
+        edges: [
+          {
+            __typename: "BreakOrderEdge",
+            node: {
+              __typename: "BreakOrder",
+              amountInCents: 11427,
+              break: {
+                __typename: "Break",
+                breakSlotsCounts: {
+                  __typename: "BreakSlotsCounts",
+                  total: 30,
+                },
+                id: "6fb3873b-c53c-4c9a-a483-336104560adc",
+                liveStream: {
+                  __typename: "LiveStream",
+                  channel: {
+                    __typename: "Channel",
+                    shop: {
+                      __typename: "Shop",
+                      id: "bfafd1c2-a3e8-431b-8710-86b72c27cd46",
+                      name: "test-shop",
+                    },
+                  },
+                  id: "0409b22c-7be3-4120-ba54-de77fe3dffad",
+                  name: "joy 31",
+                },
+                pricingType: "AUCTION",
+                selectionType: "RANDOM",
+                title: "random auction",
+              },
+              breakSpots: [
+                {
+                  __typename: "BreakSlot",
+                  id: "01399350-df5d-459d-b45d-a5cd17b446d5",
+                  label: "Sacramento Kings",
+                  logoUrl:
+                    "https://d93k0djcwy21h.cloudfront.net/breaking/spot/templates/NBA/Sacramento_Kings.png?auto=compress&s=c807f9e0f258f28974002358e6c1452c",
+                  priceDisplay: null,
+                  priceInCents: null,
+                },
+              ],
+              carrierProvider: null,
+              discountValueDisplay: "$0.00",
+              discountValueInCents: 0,
+              id: "5a378d0e-4a55-4122-8667-63c945f39b2b",
+              insertedAt: "2024-01-31T02:27:50.799327Z",
+              orderCode: "FNT_random auction_20240131022750796678",
+              paymentMethod: {
+                __typename: "PaymentMethod",
+                brand: "visa",
+                id: "9d210632-ff52-4f11-941d-642fedc58b50",
+                last4: "5556",
+              },
+              productValueDisplay: "$100.00",
+              promoCode: null,
+              shippingAddress: {
+                __typename: "Address",
+                city: "New York",
+                line1: "56 E 1st St",
+                line2: null,
+                name: "addr3 addr",
+                postalCode: "10003-9345",
+                state: "NY",
+              },
+              shippingValueDisplay: "$4.95",
+              shippingValueInCents: 495,
+              status: "Preparing for shipment",
+              subTotalValueDisplay: "$100.00",
+              totalChargeValueDisplay: "$114.27",
+              totalSalesTaxDisplay: "$9.32",
+              totalSalesTaxInCents: 932,
+              trackingNumber: null,
+              trackingStatus: null,
+              trackingUrlProvider: null,
+            },
+          },
+        ],
+      },
+    },
+  },
+  {
+    currentUser: {
+      __typename: "CurrentUser",
+      orders: {
+        __typename: "BreakOrderConnection",
+        edges: [
+          {
+            __typename: "BreakOrderEdge",
+            node: {
+              __typename: "BreakOrder",
+              amountInCents: 11445,
+              break: {
+                __typename: "Break",
+                breakSlotsCounts: {
+                  __typename: "BreakSlotsCounts",
+                  total: 2,
+                },
+                id: "8ca53dae-ad0b-4b92-be82-2b3b9b3cc96c",
+                liveStream: {
+                  __typename: "LiveStream",
+                  channel: {
+                    __typename: "Channel",
+                    shop: {
+                      __typename: "Shop",
+                      id: "bfafd1c2-a3e8-431b-8710-86b72c27cd46",
+                      name: "test-shop",
+                    },
+                  },
+                  id: "0409b22c-7be3-4120-ba54-de77fe3dffad",
+                  name: "joy 31",
+                },
+                pricingType: "SET_PRICE",
+                selectionType: "PICK_YOUR_SLOT",
+                title: "pick set",
+              },
+              breakSpots: [
+                {
+                  __typename: "BreakSlot",
+                  id: "8c17d132-9b1b-460e-93a5-fcddd4b3e051",
+                  label: "team 1",
+                  logoUrl: null,
+                  priceDisplay: null,
+                  priceInCents: 10000,
+                },
+              ],
+              carrierProvider: null,
+              discountValueDisplay: "$0.00",
+              discountValueInCents: 0,
+              id: "b9b7e686-d37f-4d4f-8a1b-0a3e196072d5",
+              insertedAt: "2024-01-31T02:25:43.848639Z",
+              orderCode: "FNT_pick set_20240131022543846474",
+              paymentMethod: {
+                __typename: "PaymentMethod",
+                brand: "visa",
+                id: "4eb8a25d-a8eb-4597-b9d8-67936ef5538c",
+                last4: "4242",
+              },
+              productValueDisplay: "$100.00",
+              promoCode: null,
+              shippingAddress: {
+                __typename: "Address",
+                city: "LOS ANGELES",
+                line1: "11061 WILSHIRE BLVD",
+                line2: "# 11",
+                name: "addr1 addr",
+                postalCode: "90024",
+                state: "CA",
+              },
+              shippingValueDisplay: "$4.95",
+              shippingValueInCents: 495,
+              status: "Preparing for shipment",
+              subTotalValueDisplay: "$100.00",
+              totalChargeValueDisplay: "$114.45",
+              totalSalesTaxDisplay: "$9.50",
+              totalSalesTaxInCents: 950,
+              trackingNumber: null,
+              trackingStatus: null,
+              trackingUrlProvider: null,
+            },
+          },
+        ],
+      },
+    },
+  },
+];
+
+export const defaultShippingAndCard = [
+  [
+    {
+      __typename: "Address",
+      city: "Los Angeles",
+      line1: "12727 Mitchell Ave",
+      line2: null,
+      name: "addr2 addr",
+      postalCode: "90066-4758",
+      state: "CA",
+    },
+    {
+      __typename: "PaymentMethod",
+      brand: "mastercard",
+      id: "910f005b-46d4-4c83-8ef4-1384ae7b20d2",
+      last4: "4444",
+    },
+  ],
+  [
+    {
+      __typename: "Address",
+      city: "New York",
+      line1: "56 E 1st St",
+      line2: null,
+      name: "addr3 addr",
+      postalCode: "10003-9345",
+      state: "NY",
+    },
+    {
+      __typename: "PaymentMethod",
+      brand: "visa",
+      id: "9d210632-ff52-4f11-941d-642fedc58b50",
+      last4: "5556",
+    },
+  ],
+  [
+    {
+      __typename: "Address",
+      city: "LOS ANGELES",
+      line1: "11061 WILSHIRE BLVD",
+      line2: "# 11",
+      name: "addr1 addr",
+      postalCode: "90024",
+      state: "CA",
+    },
+    {
+      __typename: "PaymentMethod",
+      brand: "visa",
+      id: "4eb8a25d-a8eb-4597-b9d8-67936ef5538c",
+      last4: "4242",
+    },
+  ],
+];

@@ -1,0 +1,217 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AGteOyrz1y7BFOFoyIygKlVXBj2imwULNCRMha93E7KzrsNuwUy9L_h3aQf6LHWYwQs-1bCoA2TzGykewLPFmWU",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1743925237.850421,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1164330380.1728373221",
+      "domain": ".fanatics.live",
+      "path": "/",
+      "expires": 1762933242.53401,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cfruid",
+      "value": "8fe3c91554d10e247605965256e44327ddbb7dbd-1728373224",
+      "domain": ".flsellersupport.zendesk.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "N.voYlOTo8iucQOGDuaN0iixGP6.gGsVpMUmrrydNLo-1728373224341-0.0.1.1-604800000",
+      "domain": ".flsellersupport.zendesk.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "value": "cf43f4fb-cab2-4962-b2ce-61ad7320c90a",
+      "domain": "fanid.qc.frgapps.com",
+      "path": "/",
+      "expires": 1728375038.304662,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vid",
+      "value": "e2720f74-d45d-4c54-bbb7-0f32c1b236ec",
+      "domain": "fanid.qc.frgapps.com",
+      "path": "/",
+      "expires": 1759909227.540751,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "QCTESTCOOK",
+      "value": "sdikhjbgggr3249rgf279384rtfg42i8uwehkjdcbc7438908f4323heouwi",
+      "domain": ".fanid.qc.frgapps.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "value": "10F99682FA4895CA623F34426518E7ED~-1~YAAQENgjFyMoeDGSAQAAE38Sawz1A60wiRJ7rzq17AmqazV+04GniAtcE9s3jan9lqBFcxggpGZzWDndUFgrsFvVMJAwnA3L0zFIXxAMKojUl10n74Y0T+gTuckENBs/RZMpRdgBoe+gBDHaIo0hQZRZDpGEatBfS/E+4ZKz7sK/HVs+Z0KORgXQH/2cLS6v7f44B2oHRxPGmXgpQcgjWldMPyJ/YGc3KwibPYJxhouTn+Kl5v5QnHdeGcS0ujrNUIEwGkaMX+NfY2ieZAI9LgaP7pirWm6kUodwhjMLWuxTyBAAUsOAN3s2MyggsIfiIT6X32b0V2oGGruvvQ3wHMi76+FOn5cQ9zDiRDTAXBSCX6ZdEbMe+43dLd/920p04nh6U8FpEn9RBjpEO2joikLaBrvHlyiQvqqyVRLK~-1~-1~-1",
+      "domain": ".frgapps.com",
+      "path": "/",
+      "expires": 1759909227.540921,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "value": "68E3D85D47DACF5DAFD61F1BEE155BCA~YAAQENgjFyQoeDGSAQAAE38Saxmyunv+Va1zm/5zGRS8VghTWl6iGPLabn1V2egmxeEMWPySrLdrPNhkO6hr2ylArmfLdiapNdN1d+KzcihKff57Di/xn048i24TV4bSSBg4gtukv3UvLSL1ZUmAni3Kd+cMEkzTne8NW8dLONqLy0AElVPI4jDp7BnQmhW5W1uMmXe8eNQhTglz5Nsm02rexb68GC2Sq6bqqMC1sp5AOC55xB3DFhf0P///6W3TVTOkCmiifnTXrwgdnMM1xnbcbMAmRZ2NjDaJREfjN1ap0VdB79zTIvoH5tjaN3mRCl5LGwfjU5XE+ZHFYCQBPxme2MmwOW14M3VnUfvHzhxPDPgywslOQWro+5ZX6WtMyjDH5hlQ~3227953~4600633",
+      "domain": ".frgapps.com",
+      "path": "/",
+      "expires": 1728387626.540989,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sat",
+      "value": "fibcNFDqhquBvmFDMoAThALz5wNCcUrDgtMnd0lJfonWk9KG",
+      "domain": "fanid.qc.frgapps.com",
+      "path": "/",
+      "expires": 1759909238.304904,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "fid-sc",
+      "value": "fisc2sLWrKPMyasVHixi111rYhXyfca2yGDOZebAeuqTDUTv",
+      "domain": "fanid.qc.frgapps.com",
+      "path": "/",
+      "expires": 1759909238.305104,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_zero_web_user_remember_me",
+      "value": "SFMyNTY.g2gDbQAAACDHoJoQgpnCunaLng1UOCcGlvgIDN782ge7xGJmaLgCkm4GAM2yEmuSAWIATxoA.SAB1f_u9pmye5WlFCi0b6NQTxW6v43Jixnp_ExDgutc",
+      "domain": "os.dev.fanatics.live",
+      "path": "/",
+      "expires": 1733557240.657317,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth_diagnostics",
+      "value": "eyJ1c2VyIjp7ImlkIjoiMDdhOThiMjMtYTI3NC00NDMwLWJmNzYtMThkNjQ2MGExMGM0IiwiZW1haWwiOiJqb3krNjY2QDU3YmxvY2tzLmNvbSJ9LCJzaG9wcyI6W3siaWQiOiJiZmFmZDFjMi1hM2U4LTQzMWItODcxMC04NmI3MmMyN2NkNDYiLCJzbHVnIjoidGVzdC1zaG9wIn1dfQ",
+      "domain": "os.dev.fanatics.live",
+      "path": "/",
+      "expires": 1762933240.657438,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_zero_key",
+      "value": "SFMyNTY.g3QAAAADbQAAAAtfY3NyZl90b2tlbm0AAAAYTUx6ZkdEd2RSZWtJWm1EenczWC1QcTZsbQAAAA5saXZlX3NvY2tldF9pZG0AAAA7dXNlcnNfc2Vzc2lvbnM6eDZDYUVJS1p3cnAyaTU0TlZEZ25CcGI0Q0F6ZV9Ob0h1OFJpWm1pNEFwST1tAAAACnVzZXJfdG9rZW5tAAAAIMegmhCCmcK6doueDVQ4JwaW-AgM3vzaB7vEYmZouAKS.OZQvCfAp3MMVzuFZ98LA2rY-5Yv0AAkdJdaMiby8_FA",
+      "domain": "os.dev.fanatics.live",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "liveos",
+      "value": "ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhkV1FpT2lKUWNtOXFaV04wSUVKeVpXRnJJRkp2YjIwaUxDSmxlSEFpT2pFM05UZ3pOek15TkRJc0ltbGhkQ0k2TVRjeU9ETTNNekkwTWl3aWFYTnpJam9pUm1GdVlYUnBZM01nUTI5c2JHVmpkR2xpYkdWeklpd2lhblJwSWpvaU5EVXlZMlJoTVRFdE16azFaaTAwWVRjM0xUazFabVF0WVRjeVlqbGhORFUzTWprMElpd2libUptSWpveE56STRNemN6TWpReExDSnpkV0lpT2lJd04yRTVPR0l5TXkxaE1qYzBMVFEwTXpBdFltWTNOaTB4T0dRMk5EWXdZVEV3WXpRaUxDSjBaVzVoYm5SZmFXUWlPaUkzWm1NME1EQTRNeTB4T0RreUxUUXlNR0V0WW1FM015MDJOVFppWmpSaE0yWmtNemdpTENKMGVYQWlPaUpoWTJObGMzTWlmUS5yVGt6ZEgyOUxKc3Y3RzJYaThiNVJEaWVDUVhtSEZ4emgxaUZocmtidHhuOFYyQVhXbFFlMG5MQW91Njg1TDVXQ3FOMlFpN2pXZFJjVlc3ZXRYdU81dzpleUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKaGRXUWlPaUpRY205cVpXTjBJRUp5WldGcklGSnZiMjBpTENKbGVIQWlPakUzTlRnek56TXlORElzSW1saGRDSTZNVGN5T0RNM016STBNaXdpYVhOeklqb2lSbUZ1WVhScFkzTWdRMjlzYkdWamRHbGliR1Z6SWl3aWFuUnBJam9pWW1GaVlqZ3dZbU10T1dVNE1TMDBOamcyTFRsbU5UQXRORGN3WTJWa1pXWTFNVEkzSWl3aWJtSm1Jam94TnpJNE16Y3pNalF4TENKemRXSWlPaUl3TjJFNU9HSXlNeTFoTWpjMExUUTBNekF0WW1ZM05pMHhPR1EyTkRZd1lURXdZelFpTENKMFpXNWhiblJmYVdRaU9pSTNabU0wTURBNE15MHhPRGt5TFRReU1HRXRZbUUzTXkwMk5UWmlaalJoTTJaa016Z2lMQ0owZVhBaU9pSnlaV1p5WlhOb0luMC56ZjNNUjJrUm5rU1dzdDNTdDhZZi1oV0tORm5mWml1UDBSZlZDcXJxRkxVSmstOGZUVnV4WG1wMGpjcUVLWENIYjByYnhNOGkxeFhwWXQ2amhQUHBQZw==",
+      "domain": "os.dev.fanatics.live",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_8X2Y8W360L",
+      "value": "GS1.1.1728373221.1.1.1728373242.0.0.0",
+      "domain": ".fanatics.live",
+      "path": "/",
+      "expires": 1762933242.556174,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://os.dev.fanatics.live",
+      "localStorage": [
+        {
+          "name": "mrkrui",
+          "value": "{\"hasSeenIntroductionTip\":false}"
+        },
+        {
+          "name": "668557e547f9559fb36270ef.clientId",
+          "value": "034c73b42e0646b9b951c3b1c31787f6"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"73538172a91149bdadc05639ed75b8f6\",\"expiry\":1728374143228,\"tabs\":{\"count\":1,\"expiry\":0}}"
+        },
+        {
+          "name": "ZD-buid",
+          "value": "034c73b42e0646b9b951c3b1c31787f6"
+        },
+        {
+          "name": "loglevel",
+          "value": "WARN"
+        }
+      ]
+    },
+    {
+      "origin": "https://fanid.qc.frgapps.com",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09AGteOyp6TmNv8G-5G8n80ikUIA039EoA9CucF1ZlSA7t9ZrQZXGgQ4zTcSBIkAeJ7Ksw58F0zIAGasZyAAz_3bX24VikCDcJbPEUfQ"
+        },
+        {
+          "name": "SessionVerifiedAt",
+          "value": "{\"verifiedAt\":\"2024-10-08T07:40:39.310Z\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MTg2bmZuNThmY2o5Mg=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aACPzaIcd40slFfvXFlZf79Sd1yHImn17JMl1rY2CDq0NPO-7TC9nDUbxEwH0ak7Qh1V2nwQ"
+        }
+      ]
+    }
+  ]
+}
